@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 13
+    "patch": 14
   },
   "keywords": [
     "apertum",
@@ -116,6 +116,14 @@
       "decimals": 18,
       "address": "0xA1644b94a8d34a13783fd1C43e261Dc9FdFe5f77",
       "logoURI": "https://raw.githubusercontent.com/zubochistka1337/dex-tokenlist/refs/heads/main/sexcoin.jpg"
+    },
+    {
+      "name": "FamilyCoin",
+      "chainId": 2786,
+      "symbol": "FAMILY",
+      "decimals": 18,
+      "address": "0x448385f7F6638576a0C919DBf8e1906439E8c7B3",
+      "logoURI": "https://i.ibb.co/DD7XGz7T/logo-fc.jpg"
     }
   ]
 }
