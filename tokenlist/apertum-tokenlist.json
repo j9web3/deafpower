@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://assets.apertum.io/assets/apertum-logo.svg",
-  "timestamp": "2025-05-30T16:29:14+0000",
+  "timestamp": "2025-07-22T18:00:13+0000",
   "tokens": [
     {
       "name": "Wrapped APTM",
@@ -60,6 +60,14 @@
       "decimals": 18,
       "address": "0xf081DAa36f367F4A5f93AC68C14FB39b50a58Ef8",
       "logoURI": "https://assets.apertum.io/assets/wsol-aptm.svg"
+    },
+    {
+      "name": "Wrapped USDC",
+      "chainId": 2786,
+      "symbol": "wUSDC",
+      "decimals": 18,
+      "address": "0xd979F41E12A69Aa82f04866444Ea91e8e8FaeFd9",
+      "logoURI": "https://assets.apertum.io/assets/wUSDC.svg"
     },
     {
       "name": "ANOUBIS",
