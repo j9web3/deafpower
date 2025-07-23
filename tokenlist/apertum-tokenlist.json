@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 14
+    "patch": 15
   },
   "keywords": [
     "apertum",
@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://assets.apertum.io/assets/apertum-logo.svg",
-  "timestamp": "2025-07-23T14:10:13+0000",
+  "timestamp": "2025-07-23T12:10:13+0000",
   "tokens": [
     {
       "name": "Wrapped APTM",
