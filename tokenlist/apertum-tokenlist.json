@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 15
+    "patch": 16
   },
   "keywords": [
     "apertum",
@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://assets.apertum.io/assets/apertum-logo.svg",
-  "timestamp": "2025-07-23T10:10:13+0000",
+  "timestamp": "2025-07-23T11:10:13+0000",
   "tokens": [
     {
       "name": "Wrapped APTM",
@@ -69,13 +69,21 @@
       "address": "0xd979F41E12A69Aa82f04866444Ea91e8e8FaeFd9",
       "logoURI": "https://assets.apertum.io/assets/wUSDC.svg"
     },
-     {
+    {
       "name": "Wrapped AVAX",
       "chainId": 2786,
       "symbol": "wAVAX",
       "decimals": 18,
       "address": "0xf75dD43F59cBa81329F2fA3d98d0C0908CFFeBb8",
       "logoURI": "https://assets.apertum.io/assets/wAVAX.svg"
+    },
+    {
+      "name": "Wrapped wBNB",
+      "chainId": 2786,
+      "symbol": "wBNB",
+      "decimals": 18,
+      "address": "0xF3074054737B9E83D73c3c17a007939E12698d5C",
+      "logoURI": "https://assets.apertum.io/assets/wBNB.svg"
     },
     {
       "name": "ANOUBIS",
