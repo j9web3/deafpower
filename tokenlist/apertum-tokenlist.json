@@ -148,6 +148,12 @@
       "decimals": 18,
       "address": "0x448385f7F6638576a0C919DBf8e1906439E8c7B3",
       "logoURI": "https://i.ibb.co/DD7XGz7T/logo-fc.jpg"
-    }
+    },
+      "name": "DEAFPOWER",
+      "chainId": 2786,
+      "symbol": "DEAFPOWER",
+      "decimals": 18,
+      "address": "0x9e757BAdF582A92899606E97165E90857F51646b",
+      "logoURI": "https://raw.githubusercontent.com/j9web3/deafpower/main/tokenlist/deafpowerDEX.png"
   ]
 }
