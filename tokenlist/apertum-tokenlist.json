@@ -134,11 +134,11 @@
       "logoURI": "https://i.ibb.co/DD7XGz7T/logo-fc.jpg"
     },
     {
-  "name": "DEAFPOWER",
-  "chainId": 2786,
-  "symbol": "DEAFPOWER",
-  "decimals": 18,
-  "address": "0x9e757BAdF582A92899606E97165E90857F51646b",
-  "logoURI": "https://raw.githubusercontent.com/deinGithubName/deinRepo/main/pfad/zum/deafpowerDEX_64x64.png"
+      "name": "DEAFPOWER",
+      "chainId": 2786,
+      "symbol": "DEAFPOWER",
+      "decimals": 18,
+      "address": "0x9e757BAdF582A92899606E97165E90857F51646b",
+      "logoURI": "https://raw.githubusercontent.com/j9web3/deafpower/main/pfad/zum/deafpowerDEX.png"
 }
 ]
